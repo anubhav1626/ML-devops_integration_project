@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 
 #!/usr/bin/env python
 # coding: utf-8
@@ -86,9 +84,6 @@ f.write(str(accuracy_train_model))
 f.close()
 os.system("mv /accuracy.txt /mycode")
 
-
-
-# In[ ]:
 
 
 
